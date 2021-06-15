@@ -1,0 +1,16 @@
+body{
+    background-color: silver;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h2,h3,h4,h5,h6{
+    color: #8b8b8bcc;
+}
+button{
+    background-color:rgb(228, 204, 96)
+}
+p{
+    font-family: Verdana;
+}
